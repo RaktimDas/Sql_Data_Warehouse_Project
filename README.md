@@ -100,3 +100,5 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+This Project is Inspired and Developed by : https://github.com/DataWithBaraa/sql-data-warehouse-project
